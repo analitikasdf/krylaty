@@ -1,0 +1,74 @@
+{
+	"git.confirmSync": false,
+	"git.autofetch": true,
+	"git.allowForcePush": true,
+	"editor.detectIndentation": false,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.formatOnSave": true,
+	"editor.formatOnSaveMode": "file",
+	"editor.insertSpaces": false,
+	"explorer.confirmDelete": false,
+	"explorer.confirmDragAndDrop": false,
+	"vetur.format.scriptInitialIndent": true,
+	"vetur.format.styleInitialIndent": true,
+	"vetur.format.options.tabSize": 4,
+	"vetur.format.options.useTabs": true,
+	"workbench.iconTheme": "material-icon-theme",
+	"workbench.startupEditor": "none",
+	"prettier.tabWidth": 4,
+	"prettier.useTabs": true,
+	"prettier.arrowParens": "avoid",
+	"prettier.vueIndentScriptAndStyle": true,
+	"prettier.semi": false,
+	"prettier.singleQuote": true,
+	"prettier.useEditorConfig": false,
+	"prettier.withNodeModules": true,
+	"prettier.requireConfig": true,
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode",
+		"editor.formatOnSave": true
+	},
+	"[json]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode",
+		"editor.formatOnSave": true
+	},
+	"[yaml]": {
+		"editor.formatOnSave": true
+	},
+	"[yml]": {
+		"editor.formatOnSave": true
+	},
+	"[env]": {
+		"editor.formatOnSave": true
+	},
+	"[php]": {
+		"editor.formatOnSave": true
+	},
+	"[svg]": {
+		"editor.formatOnSave": true
+	},
+	"[pug]": {
+		"editor.defaultFormatter": "octref.vetur",
+		"editor.formatOnSave": true
+	},
+	"[vue]": {
+		"editor.defaultFormatter": "octref.vetur",
+		"editor.formatOnSave": true
+	},
+	"[css]": {
+		"editor.defaultFormatter": "octref.vetur",
+		"editor.formatOnSave": true
+	},
+	"[less]": {
+		"editor.defaultFormatter": "octref.vetur",
+		"editor.formatOnSave": true
+	},
+	"vetur.format.defaultFormatter.css": "prettier",
+	"vetur.format.defaultFormatter.less": "prettier",
+	"vetur.format.defaultFormatter.html": "prettier",
+	"vetur.format.defaultFormatter.js": "prettier",
+	"vetur.format.defaultFormatter.postcss": "prettier",
+	"javascript.format.insertSpaceBeforeFunctionParenthesis": false,
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"tailwindCSS.emmetCompletions": true
+}
